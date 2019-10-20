@@ -1,0 +1,36 @@
+
+
+■拡張機能(JAVA)
+表示→拡張機能
+1.vim
+  Vim emulation for Visual Studio Code
+2.Vetur
+  Vue tooling for VS Code
+ ファイル→基本設定→設定→拡張機能→Vetur→settings.jsonで編集
+"vetur.format.options.tabSize": 4,
+"vetur.format.options.useTabs": true,
+"vetur.format.defaultFormatterOptions": {
+    "prettier": {
+        "semi": false,    //不加分号
+        "singleQuote": true  //用单引号
+    }
+}
+　Shift+Alt+Fでフォーマット
+3.Japanese Language Pack for Visual Studio Code
+4.Debugger for chrome
+5.Debugger for Java
+6.Live Server
+  Alt+L  Alt+O
+■拡張機能（フロントエンド）
+https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234
+1.Browser Preview for VS Code
+   VS Code編集同時にブラウザで確認可能
+2.Express
+   Ctrl+Shift+P →Host Current workspace and Open Browser
+    localhost形式で、ブラウザで直接開ける
+3.Todo+
+4.Zenkaku
+5.vscode-icons
+6.GitLens
+7.Git History
+8.Bracket Pair Colorizer2
