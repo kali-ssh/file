@@ -1,0 +1,22 @@
+{
+    //-----------------------------------------------------------------------------------------------------------
+    // vscodeのデフォルトの設定
+    //-----------------------------------------------------------------------------------------------------------
+    "window.zoomLevel": 0,
+    "explorer.confirmDelete": false,
+    "git.autofetch": false,
+    "workbench.editor.enablePreview": false,
+    "vim.useSystemClipboard": true,
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.fontSize": 15,
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 120,
+    "editor.fontWeight": "100",
+    //ミニマップ
+    "editor.minimap.enabled": false,
+    //選択した文字と同じ文字をハイライト
+    // "workbench.colorCustomizations": {
+    //   "editor.selectionHighlightBackground": "#ffff0070",
+    // }
+}
